@@ -1,0 +1,22 @@
+Problem Definition :
+
+1)RockWell company needs extension over cloud services and maintaining our data efficiently.
+
+2)RockWell company wanted to build and host their Information System.
+
+3)RockWell Company require financial requirement to build and host.
+
+4)Rockwell company also needs data and man hours(Employees) to manage that services.
+
+5)Rockwell company require extra schedule and create seperate department to manage it.
+
+6)Rockwell Automation Inc has a presence over the world with headquarter in London and 17 offshore development centers.
+
+7)Company has 35000 employees all over the world.
+
+8)Previously company had private cloud for their IT Solutions.
+
+9)Due to growth of the comapany, Company wants to use Amazon Web Services as Infrastructure as a Services.
+
+10)By this, Every Employess can easily access HR Solution from anywhere.
+

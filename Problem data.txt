@@ -1,0 +1,8 @@
+var Employees =
+[
+{emp_id:1,emp_name:'santosh',company_name:'Rockwell',center:'London',service_by:'AWS'},
+{emp_id:2,emp_name:'ganesh',company_name:'Rockwell',center:'hong kong',service_by:'AWS'},
+{emp_id:3,emp_name:'vikas',company_name:'Rockwell',center:'beijing',service_by:'AWS'},
+{emp_id:4,emp_name:'mahesh',company_name:'Rockwell',center:'sydney',service_by:'AWS'}
+
+];

@@ -1,0 +1,24 @@
+Non-Functional Requirement:
+
+
+1)Extensibility :
+	It requires extra space to host cloud services.
+	As per the Company growth, it specify its scope of the services.
+
+2)Security :
+	It is necessary to maintain the data over the period of time in a secure manner.
+	Rockwell company also wants to maintain our data in secure platform like AWS,Google Cloud
+
+3)Interportability:
+	There is a scenario.. if any employees seat in "London" wants to update info, then it can update the info which 		available in "Hong Kong" center. Thats means info can be port anywhere wherever it wants.
+
+4)Accessibility:
+	It is necessary to access data from anywhere.
+	Rockwell wants to keep the track of data which is available.
+
+5)Availability:
+	Every user wants to use such services which is available every time.
+	So, RockWell Company keeps the data available for the Employees as well as users.
+
+ 
+

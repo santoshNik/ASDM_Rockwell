@@ -1,0 +1,13 @@
+Functional Requirement:
+
+1)Data:
+	Rockwell Company requires all the Company data including employees
+
+2)Operational Cost:
+	There is need to pay some sort of money to build or host services from AWS or Google Cloud
+
+3)Manpower: 
+	Services needs to be some sort of manpower(i.e Employees,Supervisor,co-ordinator,manager)
+
+4)Infrastructure:
+	Services needs to be diployed. so, it needs some sort of Platform or Infrastructure.
